@@ -1,0 +1,10 @@
+Flask
+flask-restplus
+flask-sqlalchemy
+flask-mysqldb
+flask-login
+flask-script
+flask-uploads
+flask-cors
+coveralls
+pillow
